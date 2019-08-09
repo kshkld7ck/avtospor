@@ -1,0 +1,883 @@
+@media (max-width: 540px){
+	.forma .points {
+		bottom: -60px;
+	}
+	.forma .mbtn {
+		bottom: -60px;
+	}
+}
+
+@media all and (max-width: 1140px){
+	.choice p {
+		margin-right: 4px !important;
+	}
+	.select-wrap {
+		margin-left: 8px;	
+
+	}
+	.select {
+		width: 101%;	
+	}
+
+	.select-2 {
+		margin-left: 12px;
+		width: 99%;
+	}
+	
+	.doc .docview {
+		margin-right: 16px;
+		margin-bottom: 16px;
+	}
+	.legacy label {
+		margin-left: 24px;
+	}
+
+
+}
+
+
+
+
+@media screen and (max-width: 400px) {
+	.another {
+		margin-right: 24px;
+	}
+	.doc .leftp {
+		height: 800px !important;
+	}
+	.leftt #games {
+		width: 95% !important;
+	}
+	.leftp .mbtn {
+		padding: 20px 20px !important;
+		right: 16px !important;
+	}
+	.leftp .bbtn {
+		right: 84px !important;
+	}
+	.nav-item .topmenu-item {
+		font-size: 14px;
+	}
+	.forma .select-wrap .select {
+		width: 95.5%;
+	}
+	.select .select-options {
+		width: 100.4%;
+	}
+}
+
+@media all and (max-width: 1199px) and (min-width: 1141px) {
+	.text1, .text2 {
+		width: 41.6%;
+	}
+	#games {
+		width: 91%;
+	}
+	.select {
+		width: 93%;
+	}
+	.points {
+		margin-left: 116px;
+		margin-right: 0px;
+	}
+}
+
+
+@media all and (max-width: 582px){
+	.points {
+		margin-left: 208px !important;
+		margin-right: 62px !important;
+	}
+}
+
+@media all and (max-width: 768px){
+	#games {
+		width: 97.7% !important;
+	}
+	.select-wrap .select {
+		width: 97.7%;	
+	}
+
+}
+
+@media all and (min-width: 992px){
+	.nav-item a:hover {
+		color:#8ad668;
+	}
+	
+}
+@media all and (max-width: 575px){
+	.cb_label {
+		padding-top: 4px;
+	}
+	.choice {
+		display: flex;
+		justify-content: center;
+	}
+	.choice p {
+		text-align: center;
+		width: 100%;
+	}
+	.hint-load-h2-toggler {
+		text-align: center;
+		text-decoration: underline;
+		text-decoration-style: dashed;
+	}
+	.form .slide1 .hint {
+		padding-bottom: 64px;
+	}
+	.form .slide1 .load-file-mob {
+		padding-bottom: 370px;
+	}
+	 .slide1 .leftt {
+		margin-bottom: 36px;
+	}
+	.slide.dannie .container .row .leftp {
+		height: 850px !important;
+	}
+	.dannie .ch_grp {
+		padding: 4px 2px;
+	}
+	.adressblock {
+		width: 100%;
+	}
+		.dannie #city,.dannie #domnum,.dannie #street,.dannie #flat {
+		margin-left: 24px;
+		width: 89%;
+
+	}
+	.dannie #city,.dannie #domnum {
+		margin-bottom: 16px;
+	}
+	.slide input, #sposob {
+		width: 94% !important;
+	}
+	#email, #phone,#adress {
+		width: 91% !important;
+	}
+	.spid .leftp {
+		height: 780px !important;
+	}
+	.select-2 {
+		width: 93%;
+	}
+}
+
+@media all and (max-width: 991px){
+
+	.hint .hint-load-h2 {
+		text-align: center;
+	}
+		.hint-load-h2-toggler {
+		text-align: center;
+		text-decoration: underline;
+		text-decoration-style: dashed;
+	}
+	.slide1 .hint {
+		padding-bottom: 0;
+	}
+	.form .slide1 .load-file-mob {
+		padding-bottom: 370px;
+	}
+	.slide1 .leftt {
+		margin-bottom: 36px;
+	}
+	.hint-load-h2-toggler {
+		display: block;
+	}
+	.slide1 {
+		flex-direction: column-reverse;
+	}
+	.load-file{height: 0;
+		transform-origin: 50% 0%;
+		transition: .2s;
+	};
+
+	#map_canvas {
+		position: relative;
+	}
+	.adress {
+		position: absolute;
+		bottom: 0;
+	}
+	.doc .leftp {
+		margin-left: 16px;
+	}
+	.fonarb {
+		display: none;
+	}
+	.hint {
+		overflow: hidden;
+	}
+	.park .padiv {
+		width: 100%;
+		max-width: 100%;
+	}
+	.nomer, .zad, .parkovka {
+		font-size: 24px;
+	}
+	#spidtime, #spiddate {
+		width: 97.6%;
+	}
+	#spidtime {
+		margin-left: 12px;
+	}
+	.park:after {
+		width: 0;
+		height: 0;
+	}
+	.park:before {
+		width: 0;
+		height: 0;
+	}
+
+	.slide .hint {
+		display: none;
+	}
+
+	.doc .hint {
+		display: block;
+	}
+	#car3 {
+		display: none;
+	}
+	.pa .prevh12 {
+		margin-left:36px;
+	}
+
+	.pa .padiv p {
+		margin-left: 36px;
+	}
+
+	.spid .leftp input {
+		width: 97.6%;
+	}
+	#spidonum {
+		width: 59.3%;
+	}
+	#spidoser {
+		width: 36%;
+	}
+	#spidfrom, #spidto {
+		width: 47.7%;
+	}
+	#spiddate {
+		width: 57%;
+	}
+
+	.leftp, .leftt {
+		height: 740px !important;
+	}
+	.select {
+		width: 98.5%;
+	}
+	.form {
+		padding-bottom: 48px;
+	}
+	.form .zag1 {
+		margin-top: 48px;
+	}
+	.prevb a {
+		margin-top: 48px;
+		margin-bottom: 48px;
+	}
+	.abo {
+		padding-bottom: 48px;
+	}
+	.topbutton a{
+		margin-bottom: 48px;
+	}
+	#vinmodel {
+		margin-bottom: 16px;
+	}
+	#vinmodel, #vinnum {
+		width: 99%;
+	}
+	#znakdate, #znaktime {
+		width: 99%;
+	}
+	#from, #to {
+		width: 99%;
+	}
+	#parkingdd {
+		margin-bottom: 16px;
+	}
+	#parkingdd, #parkingtt {
+		width: 99%;
+	}
+	#sposob {
+		width: 100% ;
+	}
+	.slide input {
+		width: 100%;
+	}
+
+	@keyframes activv {
+		0% {color:#343434;}
+		50%{color:#8ad668;}
+		100%{color:#8ad668;
+		}
+	}
+
+	.prevb1 {
+		display: none;
+	}
+	.prevb11 {
+		display: block;
+	}
+	.prevb11 a {
+		margin-bottom: 48px;
+	}
+	.carrr{
+		display: block;
+	}
+	.pa {
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+	}
+	.prevh12 {
+		margin-left: 20px;
+		color: #fff;
+		font-weight: bold;
+		font-size: 32px;
+		padding-top: 64px;
+		padding-bottom: 12px;
+	}
+	.park p {
+		font-size: 24px;
+		margin-left: 20px;
+	}
+	.prevh {
+		margin-left: 36px
+	}
+	.prev p {
+		margin-left: 36px;
+	}
+	.wrap {
+		background: none;
+		border:none;
+	}
+	.leftp .points {
+		left: 0 !important;
+	}
+
+	.logo img {
+		margin-left: 0;
+	}
+	.text2 {
+		margin-left:24px;
+	}
+
+	#games {
+		width: 98.6% !important;
+	}
+	
+	#car {
+		display: none;
+	}
+	.car-mob {
+		display: block;
+		width: 100%;
+	}
+	.car-p {
+		display: block;
+		width: 100%;
+		background: url("../img/fon222.png");
+		background-repeat: repeat-x;
+		background-position: 0 93%;
+	}
+
+	.prev {
+	  max-width: 100%;
+
+  padding-right: 0;
+}
+	.prevysh {
+		overflow: hidden;
+	}
+	.r {
+		overflow: hidden;
+	}
+	.wrapper {
+		width: 100%;
+		border: none;
+	}
+	.topblock {
+		padding-left: 15px !important;
+	}
+	#carmob{ 
+		position: absolute;
+		right: -90px;
+		top:-50px;
+		transform: rotate(90deg);	
+	}
+	.zash {
+		max-width: 100%;
+		margin-top: 48px;
+	}
+	.zash h2 {
+		margin-left: 36px;
+		font-size: 32px;
+	}
+	.toptext {
+		margin-top: 24px;
+	}
+	.toptext p {
+		padding-left: 36px;
+		padding-right: 36px;
+		font-size: 24px;
+	}
+
+	.logo {
+		margin-left: 20px !important;
+	}
+	.logo img {
+		width: 250px;
+		margin-top: 12px;
+	}
+	.park {
+		width: 100%;
+		padding-left: 0;
+	}
+
+	.pa ul{
+		padding-left: 0;
+		margin-left: 36px;
+	}
+
+	.pa ul li {
+		padding-left: 90px !important;
+	}
+
+	.nav-link {
+		font-size: 1em;
+	}
+	.nomer {
+		background: url(../img/number.svg);
+		background-size: 90px;
+		background-repeat: no-repeat;
+		background-position: 0 50%;
+		padding-bottom: 16px;
+
+	}
+	.zad {
+		 
+		background: url(../img/watch.svg);
+		background-size: 75px;
+		background-repeat: no-repeat;
+		background-position: 10px 50%;
+	}
+
+	.parkovka {
+		padding-top: 25px;
+		padding-bottom: 25px;
+		background: url(../img/number_p.svg);
+		background-size: 60px;
+		background-repeat: no-repeat;
+		background-position: 20px 0%;
+
+	}
+
+	.zad, .nomer, .parkovka {
+		width: 100%;
+		padding-left: 0 !important;
+		margin-left: 0 !important;
+	}
+	.textabout {
+		min-width: 300px !important;
+	}
+	footer img {
+		margin-top: 12px;
+		height: 44px;
+	}
+	.adress {
+		width: 100%;
+		left:0 !important;
+		margin-top: 386px;
+
+	}
+	.about {
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+
+	.topblock {
+		overflow: hidden;
+	}
+	#nbn  {
+		flex-direction: row;
+	}
+	.topmenu-item {
+		font-size: 16px;
+
+	}
+	.w {
+		display: block;
+		margin: auto; 
+	}
+	.imgcol {
+		display: none;
+	}
+	#prevysh {
+		padding-left: 0;
+		padding-right: 0	;
+	}
+	.prev {
+		padding-right: 0;
+	}
+	.prevh {
+		font-size: 32px;
+		margin-bottom: 20px;
+	}
+	.prev p {
+		font-size: 24px;
+		margin-bottom: 12px;
+	}
+	.wrap{
+		width: 100% !important;
+	}
+	.znaks {
+		width: 100%;
+		text-align: center;
+	}
+	#zn {
+		width: 100px;
+	}
+	#formh h1 {
+		text-align: center;
+	}
+	.forma .text1, .forma .text2 {
+		width: 94.9% !important;
+		margin-right: 24px;
+	}
+	.points {
+		margin-left: 32px !important;
+		margin-right:52px !important;
+	}
+	.hint {
+		padding-left: 32px !important;
+		padding-right: 32px !important;
+	}
+	.leftt .mbtn {
+		right: 24px !important;
+	}
+	.leftp .mbtn {
+		right: 56px ;
+		padding: 20px ;
+	}
+	.leftp .bbtn {
+		left: auto !important;
+		right: 104px !important ;
+	}
+	
+
+
+
+}
+
+.link {
+	text-decoration: underline;
+}
+
+.link:hover {
+	text-decoration: none;
+}
+
+@media all and (max-width: 400px){
+	.leftp {
+		margin-bottom: 16px;
+	}
+	.doc p {
+		margin-bottom: 4px;
+	}
+	#games {
+		width: 96.6% !important;
+	}
+}
+
+@media all and (max-width: 767px){
+	#games {
+		width: 97.6% !important;
+	}
+}
+
+
+
+@media all and (max-width: 1140px){
+	.license p {
+		margin-left: 24px;
+		padding-right: 24px;
+		font-size: 16px;
+	}
+	#city, #domnum {
+		margin-left: 24px;
+	}
+	#street {
+		width: 57.3%;
+	}
+	#flat {
+		width: 47.3%;
+	}
+
+	#parkfr, #parkto {
+		width: 99%;
+	}
+	#parkfr{
+		margin-bottom: 16px;
+	}
+	#parkto {
+		margin-left: 12px;
+	}
+	#spiddate {
+		margin-bottom: 16px;
+	}
+	#spiddate, #spidtime {
+		width: 99%;
+	}
+	#znakdate, #znaktime {
+		width: 99%;
+		margin-bottom: 16px;
+	}
+	#from {
+		margin-bottom: 16px;
+	}
+	#from, #to {
+		width: 99%;
+	}
+	#vinmodel {
+		margin-bottom: 16px;
+	}
+	#vinnum, #vinmodel {
+		width: 99%;
+	}
+
+	#parkingdd, #parkingtt {
+		width: 99%;
+	}
+
+
+
+	#adress, #phone, #email {
+		margin-left: 24px;
+		width: 93%;
+	}
+	.cam {
+
+		display: none;	
+	}
+
+	.prevb a{
+		margin-bottom: 64px;
+
+	}
+	.prevb a:active {
+		margin-top: 49px;
+	}
+
+	.prevh {
+		padding-top: 64px;
+	}
+
+
+	.park .pa {
+		background: none;
+
+	}
+	
+	.pa ul li {
+		padding-left: 200px;
+	}
+
+	.adress {
+		left:50px;
+		
+	}
+	.text3 {
+		width: 100% !important;
+	}
+	.leftt {
+		border:none;
+	}
+	.leftt .mbtn {
+		position: absolute;
+		right: 8px;
+	}
+	.slide input {
+		width: 99%;
+		margin-left: 12px;
+	}
+	#sposob {
+		width: 99%;
+		margin-left: 10px;
+	}
+	.slide .leftp{
+		min-width: 320px;
+		border-right:none;
+	}
+	.leftp .points {
+		left:150px;
+		margin-top: 4px;
+		margin-left:0;
+	}
+	.leftp .bbtn {
+		left:28px;
+		right: auto;
+		padding: 19.5px 10px;
+	}
+	.leftp .mbtn {
+		left:auto !important;
+		right: 8px;
+	}
+
+	.forma {
+		border: none;
+		width: 100%;
+		margin-left: 0px;
+	}
+
+	.forma #games {
+		margin-left: 8px;
+		width: 101%
+	}
+
+	.forma .text1 , .text2 {
+		width: 45%;
+	}
+	.text1 {
+		margin-left: 24px;
+		margin-right: 8px;
+	}
+
+	.text3 {
+		width: 100%;
+		margin-left: 24px;
+	}
+
+	.points {
+		margin-left: 150px;
+		margin-right: 0;
+	}
+
+	.select-wrap:before {
+		padding-right: 35px;
+	}
+
+}
+
+@media all and (max-width: 991px){
+		#street {
+		width: 58.5%;
+	}
+	#flat {
+		width: 48.5%;
+	}
+	#spiddate, #spidtime {
+		width: 97.7%;
+	}
+	.doc .lefp {padding-right: 32px;
+	}
+	#losh {padding-left: 16px;}
+	.another {
+		opacity: .5;
+	}
+	.another:hover {
+		opacity: 1;
+	}
+	.doc .hint .gibdd {
+		display: none;
+	}
+	.doc .leftp .doca {
+		display: inline-block;
+	}
+	.doc .hint {
+		display: none;
+	}
+	.dochidden {
+		display: inline;
+	}
+
+	.hiddenhint {
+		display: inline;
+	}
+	.doc .docview{
+		display: none;
+
+	}
+	.doc .hint p {
+		display: none;
+	}
+
+	.slide1 .hint {
+		
+	}
+	.doc .leftp {
+		height: 640px;
+	}
+}
+
+
+
+@media all and (max-width: 1300px){
+	#inblock {
+		right: -8px;
+	}
+
+}
+
+@media screen and (max-width: 1200px){
+		.doc .hint p {
+		float: left;
+
+	}		
+	.legacy label .clbl {
+		width: 85%;
+	}
+}
+
+@media screen and (max-width: 1500px){
+	#car, #car2	{
+		right: 120px;
+	}
+}
+
+@media screen and (max-width: 1400px){
+	#car, #car2, #car3	{
+		right: 0px;
+	}
+	.pa:after {
+		display: none;
+	}
+	.fonarb {
+		right: -220px;
+	}
+}
+
+@media screen and (max-width: 1100px){
+	#car, #car2, #car3	{
+		right: -170px;
+	}
+		#prevysh .fonarb {
+		right: -420px;
+	}
+}
+
+@media screen and (max-width: 991px){
+	#car, #car2	{
+		display: none;
+	}
+	.topmenu-item {
+		margin: 0 7px;
+	}
+	.select-options {
+		left: -.6px;
+		width: 100.3%;
+	}
+}
+
+
+
+@media all and (max-width: 476px) {
+	#email, #phone {
+		width: 
+	}
+}

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 677 131.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #939393;
+      }
+
+      .cls-3 {
+        fill: #d0d0d0;
+      }
+
+      .cls-4 {
+        filter: url(#stoika);
+      }
+
+      .cls-5 {
+        filter: url(#svet2);
+      }
+    </style>
+    <filter id="svet2" x="172.5" y="0" width="101" height="72" filterUnits="userSpaceOnUse">
+      <feOffset dy="-6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9.5" result="blur"/>
+      <feFlood flood-color="#fff" flood-opacity="0.847"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="stoika" x="0" y="47.5" width="677" height="84" filterUnits="userSpaceOnUse">
+      <feOffset dy="40" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#000" flood-opacity="0.17"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="camera" transform="translate(-824 -2294.5)">
+    <ellipse id="svet1" class="cls-1" cx="22" cy="7.5" rx="22" ry="7.5" transform="translate(935 2329)"/>
+    <g class="cls-5" transform="matrix(1, 0, 0, 1, 824, 2294.5)">
+      <ellipse id="svet2-2" data-name="svet2" class="cls-1" cx="22" cy="7.5" rx="22" ry="7.5" transform="translate(201 34.5)"/>
+    </g>
+    <ellipse id="svet3" class="cls-1" cx="22" cy="7.5" rx="22" ry="7.5" transform="translate(1115 2329)"/>
+    <rect id="lampa1" class="cls-2" width="74" height="20" rx="4" transform="translate(920 2336)"/>
+    <rect id="lampa2" class="cls-2" width="74" height="20" rx="4" transform="translate(1010 2337)"/>
+    <rect id="lampa3" class="cls-2" width="74" height="20" rx="4" transform="translate(1100 2336)"/>
+    <g class="cls-4" transform="matrix(1, 0, 0, 1, 824, 2294.5)">
+      <path id="stoika-2" data-name="stoika" class="cls-3" d="M17.5,0H659a0,0,0,0,1,0,0V35a0,0,0,0,1,0,0H17.5A17.5,17.5,0,0,1,0,17.5v0A17.5,17.5,0,0,1,17.5,0Z" transform="translate(9 47.5)"/>
+    </g>
+  </g>
+</svg>

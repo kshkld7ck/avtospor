@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14.083 10.25">
+    <defs>
+        <style>
+            .cls-1{fill:#fff;stroke:#fff;stroke-width:2px}
+        </style>
+    </defs>
+    <path id="CHECK_MARK" d="M21.334 14.445L14.1 21.679l-3.485-3.485a.375.375 0 1 0-.53.53l3.75 3.75a.375.375 0 0 0 .53 0l7.5-7.5a.375.375 0 1 0-.53-.53z" class="cls-1" data-name="CHECK MARK" transform="translate(-8.974 -13.335)"/>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 98 99">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #c00;
+      }
+
+      .cls-3 {
+        fill: #266fb9;
+      }
+
+      .cls-4 {
+        filter: url(#Ellipse_4);
+      }
+    </style>
+    <filter id="Ellipse_4" x="0" y="0" width="98" height="99" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#000" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_303" data-name="Group 303" transform="translate(-103 -2096)">
+    <g class="cls-4" transform="matrix(1, 0, 0, 1, 103, 2096)">
+      <circle id="Ellipse_4-2" data-name="Ellipse 4" class="cls-1" cx="40" cy="40" r="40" transform="translate(9)"/>
+    </g>
+    <g id="Time" transform="translate(119.933 2104)">
+      <path id="Path_803" data-name="Path 803" class="cls-2" d="M29.7,41.367,15,26.9V5.85h3.987V25.2L32.481,38.466Z" transform="translate(15.008 5.625)"/>
+      <path id="Path_804" data-name="Path 804" class="cls-3" d="M27.342,38.054a31.721,31.721,0,0,1-22.6-9.448l2.819-2.857a27.707,27.707,0,0,0,35.123,3.6l2.2,3.368a31.418,31.418,0,0,1-17.542,5.335Z" transform="translate(4.815 25.926)"/>
+      <path id="Path_805" data-name="Path 805" class="cls-3" d="M32.827,45.219,29.5,42.989a28.64,28.64,0,0,0-3.55-35.6l2.819-2.857A32.729,32.729,0,0,1,32.827,45.219Z" transform="translate(25.888 4.284)"/>
+      <path id="Path_806" data-name="Path 806" class="cls-3" d="M45.27,31.873H41.283A28.387,28.387,0,0,0,18.747,4.13L19.54.17A32.428,32.428,0,0,1,45.27,31.873Z" transform="translate(18.73 -0.17)"/>
+      <path id="Path_807" data-name="Path 807" class="cls-3" d="M31.842,64.169a32.367,32.367,0,0,1-6.377-64l.791,3.96a28.322,28.322,0,0,0,5.586,56Z" transform="translate(0.053 -0.169)"/>
+    </g>
+  </g>
+</svg>

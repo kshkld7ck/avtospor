@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 130 131">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #c00;
+        stroke-width: 9px;
+      }
+
+      .cls-3 {
+        fill: #343434;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-6 {
+        filter: url(#Ellipse_12);
+      }
+    </style>
+    <filter id="Ellipse_12" x="0" y="0" width="130" height="131" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#000" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="speed40" transform="translate(-74 -3785)">
+    <g class="cls-6" transform="matrix(1, 0, 0, 1, 74, 3785)">
+      <circle id="Ellipse_12-2" data-name="Ellipse 12" class="cls-1" cx="56" cy="56" r="56" transform="translate(9)"/>
+    </g>
+    <g id="Ellipse_15" data-name="Ellipse 15" class="cls-2" transform="translate(89 3791)">
+      <circle class="cls-4" cx="50" cy="50" r="50"/>
+      <circle class="cls-5" cx="50" cy="50" r="45.5"/>
+    </g>
+    <path id="Path_810" data-name="Path 810" class="cls-3" d="M52.682,27.926V32H46.508V27.926H34.076V23.1L44.2,2.768h6.888L41.216,22.34h5.292V14.7h6.174V22.34h2.352v5.586Zm24.57-4.494a8.621,8.621,0,0,1-.777,3.738A8.175,8.175,0,0,1,74.4,29.921a9.24,9.24,0,0,1-2.982,1.7,10.477,10.477,0,0,1-3.486.588,10.354,10.354,0,0,1-3.444-.588,9,9,0,0,1-2.961-1.7,8.306,8.306,0,0,1-2.058-2.751,8.621,8.621,0,0,1-.777-3.738V11.378a8.449,8.449,0,0,1,2.835-6.51,8.806,8.806,0,0,1,2.961-1.722,10.354,10.354,0,0,1,3.444-.588,10.477,10.477,0,0,1,3.486.588A9.04,9.04,0,0,1,74.4,4.868,8.4,8.4,0,0,1,76.475,7.64a8.621,8.621,0,0,1,.777,3.738ZM71.036,11.378a3.167,3.167,0,0,0-.861-2.436,3.174,3.174,0,0,0-2.247-.8,3.1,3.1,0,0,0-2.226.8,3.213,3.213,0,0,0-.84,2.436V23.39a3.213,3.213,0,0,0,.84,2.436,3.1,3.1,0,0,0,2.226.8,2.887,2.887,0,0,0,3.108-3.234Z" transform="translate(83 3822)"/>
+  </g>
+</svg>
